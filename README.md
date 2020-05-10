@@ -45,8 +45,8 @@ ambient systems able to reach users at any time.
 ### To use this Follow the steps below:
 1. Open the dataset link
 2. Download it OR use the dataset provided with this repo.
-3. Read the descriptions.
+3. Read the descriptions [Click Here!](https://github.com/HAPTDS/HAPT/blob/master/DataSet/DataSet%20Description).
 4. Go to Train and Test data files.
-5. Use try.py [Python file](https://github.com/HAPTDS/HAPT/blob/master/try.py) to put column names in the file.
+5. Use try.py [Python file](https://github.com/HAPTDS/HAPT/blob/master/try.py) to put column names in the file. OR Use these files we have done this work  [Train file](https://github.com/HAPTDS/HAPT/blob/master/DataSet/Dataset%20Train.zip) [Test file](https://github.com/HAPTDS/HAPT/blob/master/DataSet/Dataset%20test.zip).
 6. See the [HAPT.ipynb](https://github.com/HAPTDS/HAPT/blob/master/HAPT%20preprocessing.ipynb) file in the Jupyter notebook.
 7. Use [dispaly file](https://github.com/HAPTDS/HAPT/blob/master/display.py) to run the GUI and get full report of every algorithm used.
