@@ -40,3 +40,13 @@ ambient systems able to reach users at any time.
 
 ## GUI:
 ![alt text](https://github.com/HAPTDS/HAPT/blob/master/Images/GUI.png)
+
+
+### To use this Follow the steps below:
+1. Open the dataset link
+2. Download it.
+3. Read the descriptions.
+4. Go to Train and Test data files.
+5. Use try.py to put column names in the file.
+6. See the .ipynb file in the Jupyter notebook.
+7. Use dispaly.py to run the GUI and get full report of every algorithm used.
