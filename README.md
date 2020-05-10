@@ -39,4 +39,4 @@ ambient systems able to reach users at any time.
 ### You can find the dataset on https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
 
 ## GUI:
-![alt text](https://github.com/Yshika/Covid19/blob/master/Images/india.png)
+![alt text](https://github.com/HAPTDS/HAPT/blob/master/Images/GUI.png)
